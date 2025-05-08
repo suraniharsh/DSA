@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compile only",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "javac Solution.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        },
+        {
+            "label": "compile and run",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "javac Solution.java && (java Solution < input.txt > output.txt)"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

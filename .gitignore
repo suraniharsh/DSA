@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Logs file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+
+# IDE - Eclipse
+.settings/
+.project
+*.prefs
+
+# IDE - NetBeans
+nbproject/
+
+# Build Folders
+build/
+out/
+target/
+
+#Temporary files
+*~
+\#*
+
+# OS generated files #
+.DS_Store
+Thumbs.db
