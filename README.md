@@ -2,10 +2,10 @@
 
 ### 🧑‍💻 Fundamentals of Programming
 
-* [ ] Variables, Data Types & I/O
-* [ ] Operators & Expressions
-* [ ] Conditional Statements (if-else, switch)
-* [ ] Loops (for, while, do-while)
+* [x] Variables, Data Types & I/O
+* [x] Operators & Expressions
+* [x] Conditional Statements (if-else, switch)
+* [x] Loops (for, while, do-while)
 * [ ] Functions & Recursion
 * [ ] Arrays & Strings
 * [ ] Pointers & Memory Management
